@@ -49,5 +49,3 @@ Authentication/
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/bc6b5ee1-58dc-4e1c-84b0-649e170836d2" />
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/93297b67-16af-46a7-a4b1-6105a6877233" />
 <img width="1920" height="1080" alt="Screenshot 2025-08-22 171724" src="https://github.com/user-attachments/assets/dd5a9fc4-0655-44fe-ba03-7809d47616af" />
-
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/b8bc2d22-24bf-4b59-8ebb-e9b8db786ff0" />
